@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Antonio Lugo-Ponce]]></title>
         <description><![CDATA[Antonio Lugo-Ponce]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lugotron/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 17:07:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 20:51:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lugotron/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Chess Boxing Teaser</p>]]></description>
+            <link>https://thegrid.ai/lugotron/27ebf41e-5e41-4a05-b8a8-44801f130ef5/index.html</link>
+            <guid isPermaLink="false">27ebf41e-5e41-4a05-b8a8-44801f130ef5</guid>
+            <pubDate>Thu, 25 Feb 2016 20:50:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About Antonio Lugo-Ponce</p>]]></description>
-            <link>undefined091ef69b-e5aa-4fbb-a1fd-2cc491c3cf54/index.html</link>
+            <link>https://thegrid.ai/lugotron/091ef69b-e5aa-4fbb-a1fd-2cc491c3cf54/index.html</link>
             <guid isPermaLink="false">091ef69b-e5aa-4fbb-a1fd-2cc491c3cf54</guid>
             <pubDate>Thu, 25 Feb 2016 17:07:12 GMT</pubDate>
         </item>
